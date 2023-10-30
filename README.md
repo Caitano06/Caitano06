@@ -1,8 +1,7 @@
 ### Olá! Sou Lucas Caitano. Desenvolvedor em formação.
 
-- 🔭 Atualmente trabalho como atendente de telemarkting de Suporte Técni de TEF da empresa PayGo(Na AeC)
+- 🔭 Atualmente trabalho como atendente de telemarkting de Suporte Técnico de TEF da empresa PayGo(AeC Relacionamento com Responsabilidade)
 - 🌱 Cursando Sistema de Informação na UniFacisa.
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/Caitano06">
